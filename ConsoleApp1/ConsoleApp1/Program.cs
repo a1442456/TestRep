@@ -17,5 +17,7 @@ namespace ConsoleApp1
 
         static void F1_1()
         { }
+        static void F1_2()
+        { }
     }
 }
