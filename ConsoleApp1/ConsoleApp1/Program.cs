@@ -11,5 +11,11 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
         }
+
+        static void F1()
+        { }
+
+        static void F1_1()
+        { }
     }
 }
