@@ -37,5 +37,8 @@ namespace ConsoleApp1
 
         static void F5_1()
         { }
+
+        static void F6_1()
+        { }
     }
 }
