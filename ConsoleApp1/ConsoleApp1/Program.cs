@@ -40,5 +40,7 @@ namespace ConsoleApp1
 
         static void F6_1()
         { }
+        static void F7_1()
+        { }
     }
 }
