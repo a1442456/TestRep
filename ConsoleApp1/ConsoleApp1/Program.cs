@@ -42,7 +42,11 @@ namespace ConsoleApp1
         { }
         static void F7_1()
         { }
+<<<<<<< HEAD
         static void F7_1_1()
+=======
+        static void F7_1_2()
+>>>>>>> f7_2
         { }
     }
 }
